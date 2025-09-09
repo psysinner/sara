@@ -5,8 +5,9 @@ from sendbot.db.mdb import mdb
 from config import ADMIN_ID
 from sendbot.modules.string_buttons import string_to_buttons
 from sendbot import app
-@Client.on_message(filters.private & filters.user(ADMIN_ID))
-async def admin_message_handler(bot: Client, message: Message):
+
+@app.on_message(filters.private & filters.user(ADMIN_ID))
+async def admin_message_handler(client: Client, message: Message):
     admin_state = await mdb.get_admin_state(message.from_user.id)
 
     if admin_state == "add_caption":
@@ -24,7 +25,6 @@ async def admin_message_handler(bot: Client, message: Message):
             await mdb.set_admin_state(message.from_user.id, None)
             await message.reply('Cancelled', quote=True)
             return
-        
         if "-" not in message.text:
             await message.reply('Wrong format! Try again.', quote=True)
             return
@@ -44,15 +44,14 @@ from pyrogram import Client, filters, enums
 from pyrogram.types import CallbackQuery, InlineKeyboardMarkup, InlineKeyboardButton, Message
 from pyrogram.errors import ButtonUrlInvalid
 import asyncio.exceptions
-
 from sendbot.db.mdb import mdb
 db = mdb
 from sendbot.modules.string_buttons import string_to_buttons
 from config import ADMIN_ID
 
-@Client.on_message(filters.command("settings") & filters.private & filters.user(ADMIN_ID))
-async def settings_handler(bot: Client, message: Message):
-    if getattr(bot, "REQFSUB", False):
+@app.on_message(filters.command("settings") & filters.private & filters.user(ADMIN_ID))
+async def settings_handler(client: Client, message: Message):
+    if getattr(client, "REQFSUB", False):
         reqfsub_button = InlineKeyboardButton("Disable Request ForceSub", callback_data="chng_req")
     else:
         reqfsub_button = InlineKeyboardButton("Enable Request ForceSub", callback_data="chng_req")
