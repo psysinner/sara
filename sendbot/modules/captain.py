@@ -5,6 +5,7 @@ from sendbot.db.mdb import mdb
 from sendbot.db.udb import udb
 from sendbot import app
 import time
+from pyrogram.errors import ButtonUrlInvalid
 from pyrogram import Client, filters
 from pyrogram.types import *
 from datetime import datetime
@@ -51,7 +52,7 @@ Please note, this bot is strictly for adult users (18+) and you are using it at 
         b = await client.get_me()
         await q.edit_message_text(
             text=f"""<b><blockquote>📄 Bot Info</blockquote>
-             
+
 » Bot Name - <a href='tg://user?id={b.id}'>{b.first_name}</a>
 » Developer - <a href='https://t.me/{ADMIN_USERNAME}'>{ADMIN_USERNAME}</a>
 » Updates - <a href='https://t.me/adulthub4all'>AdultHub4All</a>
@@ -332,3 +333,37 @@ ForceSub is currently: {req_mode}
 
 Use the buttons below to enable or disable ForceSub.
 """
+
+
+
+from pyrogram import Client, filters, enums
+from pyrogram.types import CallbackQuery, InlineKeyboardMarkup, InlineKeyboardButton, Message
+from pyrogram.errors import ButtonUrlInvalid
+import asyncio.exceptions
+from sendbot.db.mdb import mdb
+db = mdb
+from sendbot.modules.string_buttons import string_to_buttons
+from config import ADMIN_ID
+
+@Client.on_message(filters.command("settings") & filters.private & filters.user(ADMIN_ID))
+async def settings_handler(client: Client, message: Message):
+    if getattr(client, "REQFSUB", False):
+        reqfsub_button = InlineKeyboardButton("Disable Request ForceSub", callback_data="chng_req")
+    else:
+        reqfsub_button = InlineKeyboardButton("Enable Request ForceSub", callback_data="chng_req")
+
+    buttons = [
+        [InlineKeyboardButton("Manage Caption", callback_data="change_caption")],
+        [InlineKeyboardButton("Manage Buttons", callback_data="change_buttons")],
+        [reqfsub_button],
+    ]
+
+    await message.reply(
+        "**⚙️ Global Settings**\n\n"
+        "Here you can set a global caption and buttons for your bot.\n"
+        "- Caption → Text that will be added to posts.\n"
+        "- Buttons → Inline buttons that appear with posts.\n"
+        "- ForceSub → Require users to join a channel before using the bot.",
+        reply_markup=InlineKeyboardMarkup(buttons),
+        parse_mode=enums.ParseMode.MARKDOWN
+    )
