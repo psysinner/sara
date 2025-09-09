@@ -11,7 +11,7 @@ from datetime import datetime
 import pytz
 from pyrogram.enums import ParseMode
 db = mdb
-from modules.string_buttons import string_to_buttons
+from sendbot.modules.string_buttons import string_to_buttons
 import asyncio
 
 @Client.on_callback_query()

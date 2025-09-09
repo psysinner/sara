@@ -331,7 +331,9 @@ class Database:
         if data:
             return data.get('value', False)
         return False
-
+    async def get_admin_state(self, user_id):
+        user = await self.async_user_collection.find_one({'_id': user_id})
+        return user.get('admin_state') if user else None
     async def get_reqChannel(self):
         channel_docs = await self.rqst_fsub_Channel_data.find().to_list(length=None)
         channel_ids = [doc['_id'] for doc in channel_docs]

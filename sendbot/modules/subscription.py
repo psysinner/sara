@@ -2,7 +2,7 @@ from pyrogram import Client, filters
 from config import ADMIN_ID, ADMIN_USERNAME, IS_FSUB
 from pyrogram.types import *
 from sendbot.db.udb import udb
-from modules.fsub import get_fsub
+from sendbot.modules.fsub import get_fsub
 from sendbot.db.mdb import mdb
 import pytz
         

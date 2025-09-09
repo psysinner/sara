@@ -6,9 +6,9 @@ from sendbot.db.mdb import mdb
 from sendbot.db.udb import udb
 from datetime import datetime
 import pytz, random, asyncio
-from modules.fsub import get_fsub
+from sendbot.modules.fsub import get_fsub
 from pyrogram.enums import ParseMode
-from modules.string_buttons import string_to_buttons
+from sendbot.modules.string_buttons import string_to_buttons
 
 async def get_updated_limits():
         global FREE_LIMIT, PRIME_LIMIT
@@ -144,20 +144,7 @@ If you wish to upgrade, simply choose your preferred plan from the options below
         disable_web_page_preview=True,
          parse_mode=ParseMode.HTML)
 
-@Client.on_message(filters.command("settings") & filters.private)
-async def settings_command(client, message):
-    keyboard = InlineKeyboardMarkup(
-        [
-            [InlineKeyboardButton("Account Status", callback_data="account_status")],
-            [InlineKeyboardButton("Premium", callback_data="premium_info")]
-        ]
-    )
-    await message.reply_text(
-        "⚙️ **Settings**\n\nHere are the available settings:",
-        reply_markup=keyboard
-    )
-
-@Client.on_message(filters.text & filters.private & ~filters.command(["start", "home", "getvideo", "plans", "settings"]))
+@Client.on_message(filters.text & filters.private & ~filters.command(["start", "home", "getvideo", "plans"]))
 async def handle_buttons(client: Client, message: Message):
     if message.text == "Get Video":
         await send_random_video(client, message)
