@@ -16,7 +16,7 @@ db = mdb
 from sendbot.modules.string_buttons import string_to_buttons
 import asyncio
 
-@Client.on_callback_query()
+@app.on_callback_query()
 async def cb_handler(client, q: CallbackQuery):
     data = q.data
 
@@ -346,7 +346,7 @@ db = mdb
 from sendbot.modules.string_buttons import string_to_buttons
 from config import ADMIN_ID
 
-@Client.on_message(filters.command("settings") & filters.private & filters.user(ADMIN_ID))
+@app.on_message(filters.command("settings") & filters.private & filters.user(ADMIN_ID))
 async def settings_handler(client: Client, message: Message):
     if getattr(client, "REQFSUB", False):
         reqfsub_button = InlineKeyboardButton("Disable Request ForceSub", callback_data="chng_req")
