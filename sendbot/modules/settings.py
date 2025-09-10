@@ -2,7 +2,6 @@
 from pyrogram import Client, filters, enums
 from pyrogram.types import *
 from config import *
-from sendbot import app
 from sendbot.db.mdb import mdb
 from sendbot.db.udb import udb
 from datetime import datetime
@@ -18,7 +17,7 @@ async def get_updated_limits():
         PRIME_LIMIT = limits["prime_limit"]
         return limits
 
-@app.on_message(filters.command(["start", "home"]) & filters.private)
+@Client.on_message(filters.command(["start", "home"]) & filters.private)
 async def start_command(client, message):
     if await udb.is_user_banned(message.from_user.id):
         await message.reply("**You are banned from using this bot**",reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Support 🧑‍💻", url=f"https://t.me/{ADMIN_USERNAME}")]]))
@@ -53,8 +52,7 @@ The material may include explicit or graphic content that is not suitable for mi
                                  [
                                   [InlineKeyboardButton("Help", url="https://xyz.com"),InlineKeyboardButton("About", url="https://xyz.com")],[InlineKeyboardButton("Close", callback_data="close")]]),
                                   disable_web_page_preview=True,
-                                  parse_mode=ParseMode.HTML,
-                                  message_effect_id=5104841245755180586)
+                                  parse_mode=ParseMode.HTML)
 
 
 
@@ -145,3 +143,9 @@ If you wish to upgrade, simply choose your preferred plan from the options below
         disable_web_page_preview=True,
          parse_mode=ParseMode.HTML)
 
+@Client.on_message(filters.text & filters.private & ~filters.command(["start", "home", "getvideo", "plans"]))
+async def handle_buttons(client: Client, message: Message):
+    if message.text == "Get Video":
+        await send_random_video(client, message)
+    elif message.text == "Premium":
+        await message.reply(PREMIUM_MSG, disable_web_page_preview=True)
