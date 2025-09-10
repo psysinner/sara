@@ -1,276 +1,1166 @@
-[09-Sep-25 21:02:09 - INFO] - sendbot.modules - Successfully imported all sendbot.modules.
-[09-Sep-25 21:05:56 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:05:56 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:14:07 - INFO] - sendbot.modules - Successfully imported all sendbot.modules.
-[09-Sep-25 21:15:15 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:00 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:01 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:01 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:37 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:37 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:37 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:37 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:37 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:38 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:38 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:38 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:38 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:38 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:39 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:39 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:39 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:39 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:39 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:40 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:40 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:40 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:40 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:40 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:42 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:17:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:19:04 - INFO] - sendbot.modules - Successfully imported all sendbot.modules.
-[09-Sep-25 21:25:04 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:25:05 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 21:25:25 - INFO] - sendbot.modules - Successfully imported all sendbot.modules.
-[09-Sep-25 22:04:23 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 22:07:38 - INFO] - sendbot.modules - Successfully imported all sendbot.modules.
-[09-Sep-25 22:07:44 - ERROR] - pyrogram.dispatcher - 'Database' object has no attribute 'get_admin_state'
+[10-Sep-25 09:06:39 - INFO] - sendbot.modules - Successfully imported all sendbot.modules.
+[10-Sep-25 09:08:06 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
 Traceback (most recent call last):
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
     await handler.callback(self.client, *args)
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
     await self.original_callback(client, message, *args)
-  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\sudo.py", line 10, in admin_message_handler
-    admin_state = await mdb.get_admin_state(message.from_user.id)
-                        ^^^^^^^^^^^^^^^^^^^
-AttributeError: 'Database' object has no attribute 'get_admin_state'
-[09-Sep-25 22:07:45 - ERROR] - pyrogram.dispatcher - 'Database' object has no attribute 'get_admin_state'
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 25, in start_command
+    if IS_FSUB and not await get_fsub(client, message):return
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:08:06 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
 Traceback (most recent call last):
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
     await handler.callback(self.client, *args)
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
     await self.original_callback(client, message, *args)
-  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\sudo.py", line 10, in admin_message_handler
-    admin_state = await mdb.get_admin_state(message.from_user.id)
-                        ^^^^^^^^^^^^^^^^^^^
-AttributeError: 'Database' object has no attribute 'get_admin_state'
-[09-Sep-25 22:07:50 - ERROR] - pyrogram.dispatcher - 'Database' object has no attribute 'get_admin_state'
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 25, in start_command
+    if IS_FSUB and not await get_fsub(client, message):return
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:08:25 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
 Traceback (most recent call last):
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
     await handler.callback(self.client, *args)
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
     await self.original_callback(client, message, *args)
-  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\sudo.py", line 10, in admin_message_handler
-    admin_state = await mdb.get_admin_state(message.from_user.id)
-                        ^^^^^^^^^^^^^^^^^^^
-AttributeError: 'Database' object has no attribute 'get_admin_state'
-[09-Sep-25 22:07:51 - ERROR] - pyrogram.dispatcher - 'Database' object has no attribute 'get_admin_state'
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 25, in start_command
+    if IS_FSUB and not await get_fsub(client, message):return
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:10:04 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
 Traceback (most recent call last):
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
     await handler.callback(self.client, *args)
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
     await self.original_callback(client, message, *args)
-  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\sudo.py", line 10, in admin_message_handler
-    admin_state = await mdb.get_admin_state(message.from_user.id)
-                        ^^^^^^^^^^^^^^^^^^^
-AttributeError: 'Database' object has no attribute 'get_admin_state'
-[09-Sep-25 22:07:52 - ERROR] - pyrogram.dispatcher - 'Database' object has no attribute 'get_admin_state'
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 25, in start_command
+    if IS_FSUB and not await get_fsub(client, message):return
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:10:06 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
 Traceback (most recent call last):
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
     await handler.callback(self.client, *args)
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
     await self.original_callback(client, message, *args)
-  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\sudo.py", line 10, in admin_message_handler
-    admin_state = await mdb.get_admin_state(message.from_user.id)
-                        ^^^^^^^^^^^^^^^^^^^
-AttributeError: 'Database' object has no attribute 'get_admin_state'
-[09-Sep-25 22:07:53 - ERROR] - pyrogram.dispatcher - 'Database' object has no attribute 'get_admin_state'
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 150, in handle_buttons
+    await send_random_video(client, message)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:11:08 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
 Traceback (most recent call last):
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
     await handler.callback(self.client, *args)
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
     await self.original_callback(client, message, *args)
-  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\sudo.py", line 10, in admin_message_handler
-    admin_state = await mdb.get_admin_state(message.from_user.id)
-                        ^^^^^^^^^^^^^^^^^^^
-AttributeError: 'Database' object has no attribute 'get_admin_state'
-[09-Sep-25 22:07:53 - ERROR] - pyrogram.dispatcher - 'Database' object has no attribute 'get_admin_state'
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 150, in handle_buttons
+    await send_random_video(client, message)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:11:11 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
 Traceback (most recent call last):
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
     await handler.callback(self.client, *args)
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
     await self.original_callback(client, message, *args)
-  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\sudo.py", line 10, in admin_message_handler
-    admin_state = await mdb.get_admin_state(message.from_user.id)
-                        ^^^^^^^^^^^^^^^^^^^
-AttributeError: 'Database' object has no attribute 'get_admin_state'
-[09-Sep-25 22:07:53 - ERROR] - pyrogram.dispatcher - 'Database' object has no attribute 'get_admin_state'
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 150, in handle_buttons
+    await send_random_video(client, message)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:11:13 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
 Traceback (most recent call last):
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
     await handler.callback(self.client, *args)
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
     await self.original_callback(client, message, *args)
-  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\sudo.py", line 10, in admin_message_handler
-    admin_state = await mdb.get_admin_state(message.from_user.id)
-                        ^^^^^^^^^^^^^^^^^^^
-AttributeError: 'Database' object has no attribute 'get_admin_state'
-[09-Sep-25 22:07:56 - ERROR] - pyrogram.dispatcher - 'Database' object has no attribute 'get_admin_state'
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 150, in handle_buttons
+    await send_random_video(client, message)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:11:13 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
 Traceback (most recent call last):
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
     await handler.callback(self.client, *args)
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
     await self.original_callback(client, message, *args)
-  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\sudo.py", line 10, in admin_message_handler
-    admin_state = await mdb.get_admin_state(message.from_user.id)
-                        ^^^^^^^^^^^^^^^^^^^
-AttributeError: 'Database' object has no attribute 'get_admin_state'
-[09-Sep-25 22:08:01 - ERROR] - pyrogram.dispatcher - 'Database' object has no attribute 'get_admin_state'
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 150, in handle_buttons
+    await send_random_video(client, message)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:11:19 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
 Traceback (most recent call last):
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
     await handler.callback(self.client, *args)
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
     await self.original_callback(client, message, *args)
-  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\sudo.py", line 10, in admin_message_handler
-    admin_state = await mdb.get_admin_state(message.from_user.id)
-                        ^^^^^^^^^^^^^^^^^^^
-AttributeError: 'Database' object has no attribute 'get_admin_state'
-[09-Sep-25 22:08:04 - ERROR] - pyrogram.dispatcher - 'Database' object has no attribute 'get_admin_state'
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 150, in handle_buttons
+    await send_random_video(client, message)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:11:19 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
 Traceback (most recent call last):
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
     await handler.callback(self.client, *args)
   File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
     await self.original_callback(client, message, *args)
-  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\sudo.py", line 10, in admin_message_handler
-    admin_state = await mdb.get_admin_state(message.from_user.id)
-                        ^^^^^^^^^^^^^^^^^^^
-AttributeError: 'Database' object has no attribute 'get_admin_state'
-[09-Sep-25 22:14:37 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 22:14:59 - INFO] - sendbot.modules - Successfully imported all sendbot.modules.
-[09-Sep-25 22:16:10 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 22:16:37 - INFO] - sendbot.modules - Successfully imported all sendbot.modules.
-[09-Sep-25 22:20:24 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 22:20:25 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 22:20:53 - INFO] - sendbot.modules - Successfully imported all sendbot.modules.
-[09-Sep-25 22:31:49 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 22:31:49 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 22:31:49 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 22:32:16 - INFO] - sendbot.modules - Successfully imported all sendbot.modules.
-[09-Sep-25 22:34:57 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 22:34:57 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 22:34:57 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 22:35:34 - INFO] - sendbot.modules - Successfully imported all sendbot.modules.
-[09-Sep-25 22:46:15 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 22:46:34 - INFO] - sendbot.modules - Successfully imported all sendbot.modules.
-[09-Sep-25 22:57:22 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 22:57:22 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 22:57:40 - INFO] - sendbot.modules - Successfully imported all sendbot.modules.
-[09-Sep-25 22:58:55 - INFO] - root - Stop signal received (SIGINT). Exiting...
-[09-Sep-25 22:59:16 - INFO] - sendbot.modules - Successfully imported all sendbot.modules.
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 150, in handle_buttons
+    await send_random_video(client, message)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:11:19 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 150, in handle_buttons
+    await send_random_video(client, message)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:11:19 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 150, in handle_buttons
+    await send_random_video(client, message)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:11:29 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 150, in handle_buttons
+    await send_random_video(client, message)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:11:29 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 150, in handle_buttons
+    await send_random_video(client, message)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:11:29 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 150, in handle_buttons
+    await send_random_video(client, message)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:11:30 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 150, in handle_buttons
+    await send_random_video(client, message)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:11:40 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 150, in handle_buttons
+    await send_random_video(client, message)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:11:40 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 150, in handle_buttons
+    await send_random_video(client, message)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:11:48 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 150, in handle_buttons
+    await send_random_video(client, message)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:11:57 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 150, in handle_buttons
+    await send_random_video(client, message)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:12:08 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:12:11 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:12:11 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:12:11 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002830827659'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\settings.py", line 71, in send_random_video
+    if IS_FSUB and not await get_fsub(client, message):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\OneDrive\Desktop\golang\openbot\sendbot\modules\fsub.py", line 17, in get_fsub
+    await bot.get_chat_member(channel_id, user_id)
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+    ...<8 lines>...
+    )
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\psasw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.45 thinks: The channel parameter is invalid
+[10-Sep-25 09:13:47 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[10-Sep-25 09:13:47 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[10-Sep-25 09:15:26 - INFO] - sendbot.modules - Successfully imported all sendbot.modules.
+[10-Sep-25 09:19:11 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[10-Sep-25 09:19:11 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[10-Sep-25 09:19:12 - INFO] - root - Stop signal received (SIGINT). Exiting...

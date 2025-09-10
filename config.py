@@ -12,7 +12,7 @@ ADMIN_ID = int(os.getenv("ADMIN_ID"))
 LOG_CHNL = int(os.getenv("LOG_CHNL"))
 ADMIN_USERNAME = os.getenv("ADMIN_USERNAME")
 IS_FSUB = os.getenv("FSUB", "True").lower() in ("true", "1", "yes")
-AUTH_CHANNELS: List[int] = list(map(int, os.getenv("AUTH_CHANNEL", "").split(",")))
+AUTH_CHANNELS: List[int] = list(map(int, os.getenv("AUTH_CHANNEL", "-1002454896752").split(",")))
 DATABASE_CHANNEL_LOG = int(os.getenv("DATABASE_CHANNEL_LOG"))
 FREE_VIDEO_DURATION = int(os.getenv("FREE_VIDEO_DURATION"))
 
