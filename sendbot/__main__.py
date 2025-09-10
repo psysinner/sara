@@ -1,5 +1,6 @@
 import asyncio
 import importlib
+from pyromod import listen
 from pathlib import Path
 from pyrogram import idle
 from sendbot import LOGGER, app
