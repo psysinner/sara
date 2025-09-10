@@ -1,5 +1,6 @@
 from pyrogram.client import Client
 from pyromod import listen
+from pyromod.listen import Listener
 from pyrogram.enums import ParseMode
 from pyrogram.types import InlineKeyboardButton
 from config import *
@@ -7,7 +8,7 @@ import time, sys
 from datetime import datetime
 from sendbot.db.mdb import mdb
 
-class app(Client):
+class app(Client, Listener):
     def __init__(self):
         super().__init__(
             name="Adm",
