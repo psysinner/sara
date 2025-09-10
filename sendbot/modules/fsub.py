@@ -67,5 +67,5 @@ async def get_fsub(bot: Client, message: Message) -> bool:
             reply_markup=InlineKeyboardMarkup(join_buttons),
         )
         return False
-    
+
     return True

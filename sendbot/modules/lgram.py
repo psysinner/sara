@@ -100,7 +100,7 @@ async def delete_all_forcesub(client: Client, message: Message):
         if channels:
             for id in channels:
                 await mdb.del_channel(id)
-                    
+
             ids = "\n".join(f"<code>{channel}</code> ✅" for channel in channels)
 
             await pro.edit('Updating channel ID list...')
@@ -109,7 +109,7 @@ async def delete_all_forcesub(client: Client, message: Message):
             return await pro.edit(f"All Force-Sub channel IDs have been deleted:\n{ids}", reply_markup=reply_markup)
         else:
             return await pro.edit("No channel IDs available to delete.", reply_markup=reply_markup)
-            
+
     if len(channels) >= 1:
         passed = ''
         for sub_id in fsubs:
@@ -123,15 +123,14 @@ async def delete_all_forcesub(client: Client, message: Message):
                 passed += f"<code>{id}</code> ✅\n"
             else:
                 passed += f"<code>{id}</code> is not in Force-Sub channels.\n"
-        
+
         await pro.edit('Updating channel ID list...')
         await client.update_chat_ids()
-                
+
         await pro.edit(f"The provided channel IDs have been deleted:\n\n{passed}", reply_markup=reply_markup)
-        
+
     else:
         await pro.edit("No channel IDs available to delete.", reply_markup=reply_markup)
-      
 
 @app.on_message(filters.command('fsub_chnl') & filters.private & filters.user(ADMIN_ID))
 async def get_forcesub(client: Client, message: Message):
@@ -139,7 +138,7 @@ async def get_forcesub(client: Client, message: Message):
     await message.reply_chat_action(ChatAction.TYPING)
 
     channel_list = await client.update_chat_ids()
-    
+
     reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton("Close ✖️", callback_data="close")]])
     await message.reply_chat_action(ChatAction.CANCEL)
 

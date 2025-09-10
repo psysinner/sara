@@ -9,9 +9,9 @@ async def string_to_buttons(string):
             continue
         text, url = part.split('-', 1)
         row.append(InlineKeyboardButton(text.strip(), url=url.strip()))
-        if len(row) == 2:  
+        if len(row) == 2:
             buttons.append(row)
             row = []
-    if row:  
+    if row:
         buttons.append(row)
     return buttons

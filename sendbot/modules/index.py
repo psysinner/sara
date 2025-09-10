@@ -15,6 +15,3 @@ async def save_video(client: Client, message: Message):
         await client.send_message(chat_id=DATABASE_CHANNEL_LOG, text=text)
     except Exception as t:
         print(f"Error: {str(t)}")
-
-
-        
