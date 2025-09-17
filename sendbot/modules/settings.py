@@ -43,8 +43,8 @@ The material may include explicit or graphic content that is not suitable for mi
         msg,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("Get Video", url="t.me//"),
-                 InlineKeyboardButton("Premium", url="t.me//")],
+                [InlineKeyboardButton("Get Video", url="t.me//Mortal_Demon"),
+                 InlineKeyboardButton("Premium", url="t.me//Mortal_Demon")],
                 [InlineKeyboardButton("Help", url="https://xyz.com"),
                  InlineKeyboardButton("About", url="https://xyz.com")],
                 [InlineKeyboardButton("Close", callback_data="close")]
