@@ -33,30 +33,18 @@ async def start_command(client, message):
     if await udb.get_user(message.from_user.id) is None:
         await udb.addUser(message.from_user.id, message.from_user.first_name)
 
-    full_name = message.from_user.first_name + (" " + message.from_user.last_name if message.from_user.last_name else "")
-    msg = f"""<blockquote expandable>This bot may contain 18+ content.
+    msg = """<blockquote expandable>This bot may contain 18+ content.
 Please access it at your own risk.
 The material may include explicit or graphic content that is not suitable for minors.</blockquote>
 
 <a href="https://telegram.org/privacy">Terms and Conditions</a></b>"""
 
-    keyboard = ReplyKeyboardMarkup(
-        [
-            [KeyboardButton("Get Video"), KeyboardButton("Premium")]
-        ],
-        resize_keyboard=True,
-        one_time_keyboard=False
-    )
-
-    temp = await message.reply(
-        "Choose an option below ",
-        reply_markup=keyboard
-    )
-
     await message.reply_text(
         msg,
         reply_markup=InlineKeyboardMarkup(
             [
+                [InlineKeyboardButton("Get Video", callback_data="getvideo"),
+                 InlineKeyboardButton("Premium", callback_data="premium")],
                 [InlineKeyboardButton("Help", url="https://xyz.com"),
                  InlineKeyboardButton("About", url="https://xyz.com")],
                 [InlineKeyboardButton("Close", callback_data="close")]
@@ -65,6 +53,7 @@ The material may include explicit or graphic content that is not suitable for mi
         disable_web_page_preview=True,
         parse_mode=ParseMode.HTML
     )
+
 
 
 @Client.on_message(filters.command("getvideos") & filters.private)
