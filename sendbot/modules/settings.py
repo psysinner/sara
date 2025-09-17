@@ -20,11 +20,19 @@ async def get_updated_limits():
 @Client.on_message(filters.command(["start", "home"]) & filters.private)
 async def start_command(client, message):
     if await udb.is_user_banned(message.from_user.id):
-        await message.reply("**You are banned from using this bot**",reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Support 🧑‍💻", url=f"https://t.me/{ADMIN_USERNAME}")]]))
+        await message.reply("**You are banned from using this bot**",
+            reply_markup=InlineKeyboardMarkup(
+                [[InlineKeyboardButton("Support 🧑‍💻", url=f"https://t.me/{ADMIN_USERNAME}")]]
+            )
+        )
         return
-    if IS_FSUB and not await get_fsub(client, message):return
+
+    if IS_FSUB and not await get_fsub(client, message):
+        return
+
     if await udb.get_user(message.from_user.id) is None:
         await udb.addUser(message.from_user.id, message.from_user.first_name)
+
     full_name = message.from_user.first_name + (" " + message.from_user.last_name if message.from_user.last_name else "")
     msg = f"""<blockquote expandable>This bot may contain 18+ content.
 Please access it at your own risk.
@@ -36,20 +44,27 @@ The material may include explicit or graphic content that is not suitable for mi
         [
             [KeyboardButton("Get Video"), KeyboardButton("Premium")]
         ],
-        resize_keyboard=True,   
-        one_time_keyboard=False 
+        resize_keyboard=True,
+        one_time_keyboard=False
     )
 
     temp = await message.reply(
+        "Choose an option below ",
         reply_markup=keyboard
     )
-    await message.reply_text(msg,
-                             reply_markup = InlineKeyboardMarkup(
-                                 [
-                                  [InlineKeyboardButton("Help", url="https://xyz.com"),InlineKeyboardButton("About", url="https://xyz.com")],[InlineKeyboardButton("Close", callback_data="close")]]),
-                                  disable_web_page_preview=True,
-                                  parse_mode=ParseMode.HTML)
 
+    await message.reply_text(
+        msg,
+        reply_markup=InlineKeyboardMarkup(
+            [
+                [InlineKeyboardButton("Help", url="https://xyz.com"),
+                 InlineKeyboardButton("About", url="https://xyz.com")],
+                [InlineKeyboardButton("Close", callback_data="close")]
+            ]
+        ),
+        disable_web_page_preview=True,
+        parse_mode=ParseMode.HTML
+    )
 
 
 @Client.on_message(filters.command("getvideos") & filters.private)
